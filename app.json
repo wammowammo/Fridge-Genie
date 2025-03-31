@@ -1,0 +1,10 @@
+{
+    "expo": {
+      "name": "FridgeGenie",
+      "slug": "fridge-genie",
+      "ios": {
+        "bundleIdentifier": "com.williamchen.fridgegenie"
+      }
+    }
+  }
+  
